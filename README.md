@@ -69,7 +69,9 @@ the two s3 bucket was created to store the before and after image of the app, th
 ![AWS S3 Bucket](https://github.com/dGheek/VividArts_Studio-PhotoApp-/raw/main/s3.png)
 
 ## Project Demo
+![AWS S3 Bucket](https://github.com/dGheek/VividArts_Studio-PhotoApp-/raw/main/d1.jpeg)
 
+![AWS S3 Bucket](https://github.com/dGheek/VividArts_Studio-PhotoApp-/raw/main/d2.jpeg)
 
 # Conclution 
 VividArts is a comprehensive web appliaction that leverages modern technologies and cloud infrastructure to provide uses with a seamless experience for uploading, processing, and viewing images 
