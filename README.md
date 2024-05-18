@@ -57,15 +57,16 @@ Once an EC2 instance is created, a user data bash script pulls the Docker image 
 
 ## Project Deployment On AWS
 # AWS Instance
+EC2 instances was deployed to host the flask application
 ![AWS Inatnce](https://github.com/dGheek/VividArts_Studio-PhotoApp-/raw/main/instance.png)
 
 # Lambda Funtion
 Lambda functuons in this project was used for image processing, such as image resizing
-![AWS Inatnce](https://github.com/dGheek/VividArts_Studio-PhotoApp-/raw/main/lambda_code.png)
+![AWS Lambda Function](https://github.com/dGheek/VividArts_Studio-PhotoApp-/raw/main/lambda_code.png)
 
 # AWS S3 Buckets
 the two s3 bucket was created to store the before and after image of the app, the lambda function is triggered.
-![AWS Inatnce](https://github.com/dGheek/VividArts_Studio-PhotoApp-/raw/main/s3.png)
+![AWS S3 Bucket](https://github.com/dGheek/VividArts_Studio-PhotoApp-/raw/main/s3.png)
 
 ## Project Demo
 
