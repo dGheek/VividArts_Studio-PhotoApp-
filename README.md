@@ -55,6 +55,9 @@ GitHub Actions automatically builds and deploys a Docker image of the Flask Appl
 Terraform provisions AWS resources, including EC2 instances, S3 buckets, Lambda functions
 Once an EC2 instance is created, a user data bash script pulls the Docker image from Docker Hub and launches the Flask apliaction
 
+## Project Demo
+
+
 # Conclution 
 VividArts is a comprehensive web appliaction that leverages modern technologies and cloud infrastructure to provide uses with a seamless experience for uploading, processing, and viewing images 
 By utilizing HTML, CSS, JavaScipt, Flask, AWS, Terraform, Docker,  and GitHub Actions, the project demonstrates efficient development practices and scalability in deployment.
