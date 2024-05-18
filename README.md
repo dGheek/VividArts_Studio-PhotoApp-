@@ -1,7 +1,7 @@
 # VividArts
-Name: Chijioke Edeh
-Group: Faith Group
-Project: VividArts Capstone Project 2
+Name: Chijioke Edeh <br>
+Group: Faith Group <br>
+Project: VividArts Capstone Project 2 <br>
 CE2 - Azubi Africa
 
 ## Introduction
