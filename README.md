@@ -55,8 +55,20 @@ GitHub Actions automatically builds and deploys a Docker image of the Flask Appl
 Terraform provisions AWS resources, including EC2 instances, S3 buckets, Lambda functions
 Once an EC2 instance is created, a user data bash script pulls the Docker image from Docker Hub and launches the Flask apliaction
 
-## Project Demo
+## Project Deployment On AWS
+# AWS Instance
 ![AWS Inatnce](https://github.com/dGheek/VividArts_Studio-PhotoApp-/raw/main/instance.png)
+
+# Lambda Funtion
+Lambda functuons in this project was used for image processing, such as image resizing
+![AWS Inatnce](https://github.com/dGheek/VividArts_Studio-PhotoApp-/raw/main/lambda_code.png)
+
+# AWS S3 Buckets
+the two s3 bucket was created to store the before and after image of the app, the lambda function is triggered.
+![AWS Inatnce](https://github.com/dGheek/VividArts_Studio-PhotoApp-/raw/main/s3.png)
+
+## Project Demo
+
 
 # Conclution 
 VividArts is a comprehensive web appliaction that leverages modern technologies and cloud infrastructure to provide uses with a seamless experience for uploading, processing, and viewing images 
