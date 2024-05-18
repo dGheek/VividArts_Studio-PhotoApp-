@@ -56,7 +56,7 @@ Terraform provisions AWS resources, including EC2 instances, S3 buckets, Lambda 
 Once an EC2 instance is created, a user data bash script pulls the Docker image from Docker Hub and launches the Flask apliaction
 
 ## Project Demo
-![AWS Inatnce](https://github.com/your-username/your-repo-name/raw/main/instance.png)
+![AWS Inatnce](https://github.com/dGheek/VividArts_Studio-PhotoApp-/raw/main/instance.png)
 
 # Conclution 
 VividArts is a comprehensive web appliaction that leverages modern technologies and cloud infrastructure to provide uses with a seamless experience for uploading, processing, and viewing images 
